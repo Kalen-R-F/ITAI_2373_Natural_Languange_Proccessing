@@ -39,10 +39,5 @@ The system is designed to help journalists, media monitoring teams, researchers,
 ## Limitations
 The sentiment and emotion analyses are lexicon-based. Dependency-based relationships are approximate, and entity co-occurrence does not establish a confirmed relationship. Model performance depends on the dataset and the selected training configuration.
 
-## Team Contributions
-- **Team members:** Add names.
-- **Individual contribution:** Describe your own code, analysis, testing, and documentation work.
-- **Future improvements:** Consider better emotion detection, more robust semantic role labeling, expanded news categories, and deployment as a web application.
-
 ## Results
-Add the actual held-out test accuracy, macro F1 score, and important findings after running the notebook.
+
